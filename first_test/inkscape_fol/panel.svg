@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 508 285.75"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   sodipodi:docname="panel.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.50835205"
+     inkscape:cx="672.76211"
+     inkscape:cy="339.33177"
+     inkscape:window-width="1466"
+     inkscape:window-height="1024"
+     inkscape:window-x="76"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="1"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="btn1"
+       transform="translate(0,-10.952736)">
+      <rect
+         style="fill:#35e53d;fill-opacity:1;stroke-width:0.264583"
+         id="rect1"
+         width="120"
+         height="60"
+         x="190"
+         y="27.952736"
+         ry="14.573235" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1949px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#35e53d;fill-opacity:1;stroke-width:0.266156"
+         x="231.2643"
+         y="61.343636"
+         id="text1"
+         transform="scale(0.98955069,1.0105597)"><tspan
+           sodipodi:role="line"
+           id="tspan1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1949px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;stroke-width:0.266156"
+           x="231.2643"
+           y="61.343636">ボタン</tspan></text>
+    </g>
+    <g
+       id="lamp1"
+       transform="translate(0,-43)">
+      <g
+         id="g3">
+        <g
+           id="g4">
+          <circle
+             style="fill:#b3b3b3;fill-opacity:1;stroke-width:0.263604"
+             id="path1"
+             cx="248"
+             cy="158"
+             r="33" />
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#ff5555;fill-opacity:1;stroke-width:0.264583"
+             x="227.44237"
+             y="163.40521"
+             id="text2"><tspan
+               sodipodi:role="line"
+               id="tspan2"
+               style="fill:#000000;stroke-width:0.264583"
+               x="227.44237"
+               y="163.40521">ランプ</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g5">
+      <rect
+         style="fill:#b3b3b3;stroke-width:0.203749"
+         id="rect2"
+         width="80"
+         height="50"
+         x="208"
+         y="182" />
+      <text
+         xml:space="preserve"
+         style="font-size:14.1111px;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
+         x="244.41434"
+         y="212.14235"
+         id="int_1"
+         inkscape:label=""><tspan
+           sodipodi:role="line"
+           id="int_1"
+           style="stroke-width:0.264583"
+           x="244.41434"
+           y="212.14235">0</tspan></text>
+    </g>
+  </g>
+</svg>
